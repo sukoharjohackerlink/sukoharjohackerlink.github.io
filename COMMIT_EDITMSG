@@ -1,0 +1,147 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: und3rfl0w <und3rfl0w@kecoakterbang.localhost>
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	deleted:    ../.devcontainer/devcontainer.json
+#	deleted:    ../.devcontainer/post-create.sh
+#	deleted:    ../.editorconfig
+#	deleted:    ../.gitattributes
+#	deleted:    ../.github/DISCUSSION_TEMPLATE/general.yml
+#	deleted:    ../.github/DISCUSSION_TEMPLATE/ideas.yml
+#	deleted:    ../.github/DISCUSSION_TEMPLATE/q-a.yml
+#	deleted:    ../.github/FUNDING.yml
+#	deleted:    ../.github/ISSUE_TEMPLATE/bug_report.yml
+#	deleted:    ../.github/ISSUE_TEMPLATE/config.yml
+#	deleted:    ../.github/ISSUE_TEMPLATE/feature_request.yml
+#	deleted:    ../.github/PULL_REQUEST_TEMPLATE.md
+#	deleted:    ../.github/codeql/codeql-config.yml
+#	deleted:    ../.github/dependabot.yml
+#	deleted:    ../.github/workflows/cd.yml
+#	deleted:    ../.github/workflows/ci.yml
+#	deleted:    ../.github/workflows/codeql.yml
+#	deleted:    ../.github/workflows/commitlint.yml
+#	deleted:    ../.github/workflows/lint-js.yml
+#	deleted:    ../.github/workflows/lint-scss.yml
+#	deleted:    ../.github/workflows/pages-deploy.yml
+#	deleted:    ../.github/workflows/pr-filter.yml
+#	deleted:    ../.github/workflows/publish.yml
+#	deleted:    ../.github/workflows/scripts/pr-filter.js
+#	deleted:    ../.github/workflows/stale.yml
+#	deleted:    ../.github/workflows/starter/pages-deploy.yml
+#	deleted:    ../.gitignore
+#	deleted:    ../.gitmodules
+#	deleted:    ../.husky/commit-msg
+#	deleted:    ../.markdownlint.json
+#	deleted:    ../.nojekyll
+#	deleted:    ../.stylelintrc.json
+#	deleted:    ../.vscode/extensions.json
+#	deleted:    ../.vscode/settings.json
+#	deleted:    ../.vscode/tasks.json
+#	deleted:    ../Gemfile
+#	deleted:    ../LICENSE
+#	deleted:    ../README.md
+#	deleted:    ../_config.yml
+#	deleted:    ../_data/contact.yml
+#	deleted:    ../_data/share.yml
+#	deleted:    ../_plugins/posts-lastmod-hook.rb
+#	deleted:    ../_posts/.placeholder
+#	deleted:    ../_posts/2022-07-20-hello.md
+#	deleted:    ../_posts/ctf/2025-07-23-ctf.md
+#	deleted:    ../_posts/ctf/pwnable.kr /2025-11-14-pwnable-2025.md
+#	deleted:    ../_posts/ctf/uiuctf-2025/2025-07-29-UIUCTF-2025.md
+#	deleted:    ../_posts/ctf/uiuctf-2025/image.png
+#	deleted:    ../_site/404.html
+#	deleted:    ../_site/about/index.html
+#	deleted:    ../_site/app.min.js
+#	deleted:    ../_site/archives/index.html
+#	deleted:    ../_site/assets/css/jekyll-theme-chirpy.css
+#	deleted:    ../_site/assets/css/jekyll-theme-chirpy.css.map
+#	deleted:    ../_site/assets/files/BeeMobPortal.zip
+#	deleted:    ../_site/assets/files/flag_checker
+#	deleted:    ../_site/assets/files/flagenc
+#	deleted:    ../_site/assets/files/handout.tar.gz
+#	deleted:    ../_site/assets/files/meta4sec/chall.zip
+#	deleted:    ../_site/assets/files/meta4sec/chall_0.zip
+#	deleted:    ../_site/assets/files/raisedakeyBEEFEST
+#	deleted:    ../_site/assets/img/8f44cc2cb38ce3a8be121f45d521d902.png
+#	deleted:    ../_site/assets/img/avatar.jpg
+#	deleted:    ../_site/assets/img/favicons/android-chrome-192x192.png
+#	deleted:    ../_site/assets/img/favicons/android-chrome-512x512.png
+#	deleted:    ../_site/assets/img/favicons/apple-touch-icon.png
+#	deleted:    ../_site/assets/img/favicons/browserconfig.xml
+#	deleted:    ../_site/assets/img/favicons/favicon-16x16.png
+#	deleted:    ../_site/assets/img/favicons/favicon-32x32.png
+#	deleted:    ../_site/assets/img/favicons/favicon.ico
+#	deleted:    ../_site/assets/img/favicons/mstile-150x150.png
+#	deleted:    ../_site/assets/img/favicons/site.webmanifest
+#	deleted:    ../_site/assets/img/meta4sec.jpeg
+#	deleted:    ../_site/assets/img/park.jpg
+#	deleted:    ../_site/assets/js/data/mathjax.js
+#	deleted:    ../_site/assets/js/data/search.json
+#	deleted:    ../_site/assets/js/data/swconf.js
+#	deleted:    ../_site/assets/js/dist/categories.min.js
+#	deleted:    ../_site/assets/js/dist/commons.min.js
+#	deleted:    ../_site/assets/js/dist/home.min.js
+#	deleted:    ../_site/assets/js/dist/misc.min.js
+#	deleted:    ../_site/assets/js/dist/page.min.js
+#	deleted:    ../_site/assets/js/dist/post.min.js
+#	deleted:    ../_site/assets/js/dist/theme.min.js
+#	deleted:    ../_site/categories/ctf/index.html
+#	deleted:    ../_site/categories/index.html
+#	deleted:    ../_site/categories/international-event/index.html
+#	deleted:    ../_site/categories/introductions/index.html
+#	deleted:    ../_site/categories/meta4sec-2025/index.html
+#	deleted:    ../_site/categories/national-event/index.html
+#	deleted:    ../_site/categories/uiuctf-2025/index.html
+#	deleted:    ../_site/feed.xml
+#	deleted:    ../_site/index.html
+#	deleted:    ../_site/posts/Meta4Sec-2025/index.html
+#	deleted:    ../_site/posts/UIUCTF-2025/index.html
+#	deleted:    ../_site/posts/ctf/index.html
+#	deleted:    ../_site/posts/hello/index.html
+#	deleted:    ../_site/posts/pwnable-2025/index.html
+#	deleted:    ../_site/robots.txt
+#	deleted:    ../_site/sitemap.xml
+#	deleted:    ../_site/sw.min.js
+#	deleted:    ../_site/tags/beginner/index.html
+#	deleted:    ../_site/tags/crypto/index.html
+#	deleted:    ../_site/tags/ctf/index.html
+#	deleted:    ../_site/tags/ctftime/index.html
+#	deleted:    ../_site/tags/cybersecurity/index.html
+#	deleted:    ../_site/tags/hacking/index.html
+#	deleted:    ../_site/tags/index.html
+#	deleted:    ../_site/tags/intro/index.html
+#	deleted:    ../_site/tags/pwn/index.html
+#	deleted:    ../_site/tags/reversing/index.html
+#	deleted:    ../_tabs/about.md
+#	deleted:    ../_tabs/archives.md
+#	deleted:    ../_tabs/categories.md
+#	deleted:    ../_tabs/tags.md
+#	deleted:    ../assets/img/8f44cc2cb38ce3a8be121f45d521d902.png
+#	deleted:    ../assets/img/avatar.jpg
+#	deleted:    ../assets/img/favicons/android-chrome-192x192.png
+#	deleted:    ../assets/img/favicons/android-chrome-512x512.png
+#	deleted:    ../assets/img/favicons/apple-touch-icon.png
+#	deleted:    ../assets/img/favicons/browserconfig.xml
+#	deleted:    ../assets/img/favicons/favicon-16x16.png
+#	deleted:    ../assets/img/favicons/favicon-32x32.png
+#	deleted:    ../assets/img/favicons/favicon.ico
+#	deleted:    ../assets/img/favicons/mstile-150x150.png
+#	deleted:    ../assets/img/favicons/site.webmanifest
+#	deleted:    ../assets/img/meta4sec.jpeg
+#	deleted:    ../assets/img/park.jpg
+#	deleted:    ../index.html
+#	deleted:    ../robots.txt
+#	deleted:    ../tools/run.sh
+#	deleted:    ../tools/test.sh
+#
+# Untracked files:
+#	../rafidghanim.github.io/
+#	../sukoharjohackerlink.github.io.bak/
+#
